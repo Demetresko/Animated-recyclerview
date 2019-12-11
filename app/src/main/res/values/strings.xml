@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AnimatedRecyclerview</string>
+
+    <string name = "realizm">1850 Реализм</string>
+    <string name = "impressionizm">1860 Импрессионизм</string>
+    <string name = "postimpressionizm">1880 Постимпрессионизм</string>
+    <string name = "cubizm">1910 Кубизм</string>
+    <string name = "expressinizm">1915 Экспрессионизм</string>
+    <string name = "surrealizm">1920 Сюрреализм</string>
+    <string name = "abstractcionizm">1930 Абстракционизм</string>
+    <string name = "abstractPainting">1950 Абстрактная Живопись</string>
+    <string name = "popArt">1960 Поп Арт</string>
+</resources>
